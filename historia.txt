@@ -6,3 +6,5 @@ Mañana nos enfocaremos en su vida laboral
 
 
 Añadiendo texto desde la clonacion 
+
+Este es el footer 
