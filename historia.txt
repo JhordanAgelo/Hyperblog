@@ -11,4 +11,10 @@ Mañana nos enfocaremos en su vida laboral
 
 Añadiendo texto desde la clonacion 
 
+<<<<<<< HEAD
 Añadiendo texto desde prueba
+=======
+Este es el footer 
+
+----PUEDE CONTACTARNOS EN FACEBOOK------------
+>>>>>>> footer
